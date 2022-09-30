@@ -331,7 +331,7 @@
  {
         "id" : "60",
         "question" : "How would you motivate your team as the project deadline approaches?",
-        "answerLink" : ""
+        "answerLink" : "https://medium.com/superokay/4-ways-to-make-your-team-win-at-deadlines-624c6e4026"
     },
 
     {
@@ -339,12 +339,7 @@
         "question" : "What are the primary components of a computer system?",
         "answerLink" : "https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions"
     }, 
-    {
-        "id" : "62",
-        "question" : "What are your hobbies? ",
-        "answerLink" : "https://leverageedu.com/blog/what-are-your-hobbies/"
-    },
-
+   
 
 
 
